@@ -1,5 +1,5 @@
 
-*Trần Thanh Phương -1150080165 *
+Trần Thanh Phương -1150080165 
 # LAB 6: pfSense Advanced Firewall, Captive Portal & LDAP Authentication
 Kho lưu trữ này chứa toàn bộ tài liệu, cấu hình hệ thống và hình ảnh minh chứng kết quả thực hiện **Lab 6** môn Quản trị mạng / An toàn hệ thống thông tin.
 ##  Môi trường thực thi & Topology
